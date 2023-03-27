@@ -44,6 +44,8 @@ header{
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
+    min-width: 300px;
+    max-width: 1000px;
 }
 header > h1{
     color: white;
@@ -191,6 +193,8 @@ footer{
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
+    min-width: 300px;
+    max-width: 1000px;
     
 }
 footer a{
